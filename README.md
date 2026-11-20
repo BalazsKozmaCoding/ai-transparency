@@ -1,6 +1,6 @@
 # AI transparency for documents
 
-<sub>(**[AI transparency](README.md):** proposed by <img src="badges/human.svg" alt="human" align="absmiddle"> · drafted by <img src="badges/ai.svg" alt="AI" align="absmiddle"> · reviewed by <img src="badges/human.svg" alt="human" align="absmiddle"> · approved by <img src="badges/human.svg" alt="human" align="absmiddle"> at `f3ebd36`)</sub>
+<sub>(**[AI transparency](README.md):** proposed by <img src="badges/human.svg" alt="human" align="absmiddle"> · drafted by <img src="badges/ai.svg" alt="AI" align="absmiddle"> · reviewed by <img src="badges/human.svg" alt="human" align="absmiddle"> · approved by <img src="badges/human.svg" alt="human" align="absmiddle"> at `bb7848f`)</sub>
 
 In projects where documents are written with AI, this short line under a document's title tells you how much a person was involved in its creation, so you know what you are reading.
 
