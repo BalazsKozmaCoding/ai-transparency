@@ -6,7 +6,7 @@ In projects where documents are written with AI, this short line under a documen
 
 ## How to read the line (for humans)
 
-The line at the top of this page is an example. Its parts:
+This page has its own line too, under its title. Its parts:
 
 - **proposed by**: whose idea the document was.
 - **drafted by**: who wrote the text.
