@@ -6,12 +6,12 @@ In projects where documents are written with AI, this short line under a documen
 
 ## How to read the line (for humans)
 
-This page has its own line too, under its title. Its parts:
+Take this page's own line, above, as an example:
 
-- **proposed by**: whose idea the document was.
-- **drafted by**: who wrote the text.
-- **reviewed by**: who read it and commented.
-- **approved by**: a person read the whole document and was happy with it. The short code after it (for example `a1b2c3d`) names the version they read. The document may have changed since; to see how, compare it with that version in git.
+- **proposed by** <img src="badges/human.svg" alt="human" align="absmiddle">: a person had the idea for the document.
+- **drafted by** <img src="badges/ai.svg" alt="AI" align="absmiddle">: an AI wrote the text.
+- **reviewed by** <img src="badges/human.svg" alt="human" align="absmiddle">: a person read it and commented.
+- **approved by** <img src="badges/human.svg" alt="human" align="absmiddle"> at a short code: a person read the whole document and was happy with it. The code names the version they read. The document may have changed since; to see how, compare it with that version in git.
 
 A blue <img src="badges/human.svg" alt="human" align="absmiddle"> box marks a step a person did, a purple <img src="badges/ai.svg" alt="AI" align="absmiddle"> box a step an AI did. A dash, —, means the step has not happened yet.
 
