@@ -4,7 +4,7 @@
 
 In projects where documents are written with AI, this short line under a document's title tells you how much a person was involved in its creation, so you know what you are reading.
 
-## How to read the line
+## How to read the line (for humans)
 
 The line at the top of this page is an example. Its parts:
 
@@ -17,9 +17,9 @@ A blue <img src="badges/human.svg" alt="human" align="absmiddle"> box marks a st
 
 One more form: **all AI, not reviewed by a human** means no person took part. Read it as an AI's notes, for example a worklog.
 
-## Writing the line
+## Writing the line (for AI agents)
 
-The rest of this page is for people and agents who write documents in a repository that uses the line. Every document there (for example the README and the files in `docs/`) starts with the line, directly under the title. It is set in smaller text and in parentheses, so that it reads as a note about the document and not as part of its content, and its label links to this page.
+The rest of this page is for agents that write documents in a repository that uses the line (and for a person who edits the line by hand). Every document there (for example the README and the files in `docs/`) starts with the line, directly under the title. It is set in smaller text and in parentheses, so that it reads as a note about the document and not as part of its content, and its label links to this page.
 
 ### The line
 
